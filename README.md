@@ -4,7 +4,7 @@ BadWordsPHP is a library to censure all the badwords in differents langages.
 
 ## Installation
 
-Download the all the file in a folder that you want, and just include it to your project with this use
+Download all the files in a folder that you want, and just include it to your project with this use
 
 ```bash
 use BadWords\BadWordsFilter;
