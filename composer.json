@@ -1,0 +1,18 @@
+{
+    "name": "forstellaire/badwordsfilter",
+    "description": "Filter all the badwords in different lang, and in json to php array",
+    "license": "Forstellaire",
+    "authors": [
+        {
+            "name": "Forstellaire",
+            "email": "djayce1234567890@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "BadWords\\":"src/"
+        }
+    },
+    "minimum-stability": "alpha",
+    "require": {}
+}
